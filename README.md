@@ -349,7 +349,6 @@ Galaxy Glass 착용자의 1인칭 시점으로 신발을 바라보는 순간,
 HUD가 즉시 가격·브랜드·모델명을 표시하는 장면.
 선글라스 렌즈 틴트 + Samsung 미니멀 UI로 제품 핵심 기능을 직관적으로 전달.
 **“갤럭시, 최저가 알려줘.”** 대사로 제품 호출 장면을 자연스럽게 연출.
-다음 씬의 여유로운 이탈 장면을 위한 **“이미 다 알았다”** 감정 준비 단계.
 
 ### 결과 파일명
 
@@ -582,7 +581,7 @@ Galaxy Glass → 슬로건 → Samsung 로고가 순서대로 화면에 나타�
 ### 결과 파일명
 
 - scene04_image.png
-- Samsung_Orig_Wordmark_WHITE_RGB.png
+- logo_samsung_white.png
 - scene04_motion.mp4
 
 ---
